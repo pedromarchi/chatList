@@ -15,7 +15,7 @@ export default class ListItem extends Component{
 				<View style={styles.item}>
 					<Image 
 					source={{uri:this.props.data.img}} 
-					styles={styles.image}/>
+					style={styles.image}/>
 				</View>
 			</TouchableHighlight>
 		);
