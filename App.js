@@ -8,11 +8,11 @@ export default class ListaCvs extends Component{
     this.state = {
       list:[
         {key:'1', img:'https://www.b7web.com.br/avatar1.png', nome:'Pedro Marchi', msg:'Quero fazer um orçamento contigo!'},
-        {key:'2', img:'https://www.b7web.com.br/avatar2.png', nome:'André Esteves', msg:'Quero um aplicativo para restaurantes'},
-        {key:'3', img:'https://www.b7web.com.br/avatar3.png', nome:'Mariana Monteiro', msg:'Olá, bom dia. Visualizou o email que te enviei?'},
-        {key:'4', img:'https://www.b7web.com.br/avatar2.png', nome:'João Gonçalves', msg:'Fala, parceiro! Conseguiu finalizar o projeto?'},
-        {key:'5', img:'https://www.b7web.com.br/avatar1.png', nome:'Fábio Oliveira', msg:'Olá amigo, tudo bem?'},
-        {key:'6', img:'https://www.b7web.com.br/avatar3.png', nome:'Elise Marchi', msg:'Gostaria de sair para jantar?'}
+        {key:'2', img:'https://www.b7web.com.br/avatar2.png', nome:'André Esteves', msg:'Quero um aplicativo para meu trabalhar em meu negócio'},
+        {key:'3', img:'https://www.b7web.com.br/avatar3.png', nome:'Mariana Monteiro', msg:'Olá, bom dia. Visualizou o meu email com as propostas?'},
+        {key:'4', img:'https://www.b7web.com.br/avatar2.png', nome:'João Gonçalves', msg:'Fala, parceiro! Tudo bem? Queria conversar contigo à respeito da sua entrevista'},
+        {key:'5', img:'https://www.b7web.com.br/avatar1.png', nome:'Fábio Oliveira', msg:'Olá amigo!'},
+        {key:'6', img:'https://www.b7web.com.br/avatar3.png', nome:'Susane Araújo', msg:'Gostaria de sair para jantar?'}
       ]
     };
   }
